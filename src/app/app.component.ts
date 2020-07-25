@@ -12,7 +12,6 @@ export class AppComponent  {
         font: 'roboto',
       },
       insert: 'test',
-      toolbar: [['formula'], ['image']],
     },
   ];
 }
